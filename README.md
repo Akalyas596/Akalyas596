@@ -23,16 +23,13 @@ Goal: Assist visually impaired users to compose & send emails using voice comman
 
 📈 HR Analytics Data Project
 Tech: Python, SQL, Power BI, Tableau
-<hr>
 Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
-
+<hr>
 🎓 Education<br>
 🎓 B.E. Computer Science and Engineering<br>
 Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2022–2026)<br>
 CGPA: 8.42
-
-🏫 HSC (2022): 88.6% – Government Girls Higher Secondary School, Kunnam<br>
-🏫 SSLC (2020): 92.16% – Government Girls Higher Secondary School, Kunnam
+<hr>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akalyas596&show_icons=true&theme=omni&hide_border=true&border_radius=20" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akalyas596&theme=omni&hide_border=true&border_radius=20" width="45%" /> </p>
