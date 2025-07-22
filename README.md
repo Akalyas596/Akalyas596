@@ -7,11 +7,14 @@
 💻 Java Intern @ Top Tech Developers<br>
 💡 Passionate about building real-world solutions & creative problem-solving<br>
 🤝 Looking for collaborations, internships, and innovative tech projects
+<hr>
 
 📫 Connect with Me
 <p align="left"> <a href="mailto:akalyaselvaraj14@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a> <a href="https://www.linkedin.com/in/akalya-selvaraj-04a2a7275"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/Akalyas596"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a> </p>
 🛠️ Skills & Technologies
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0DB7ED?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-ffb400?style=for-the-badge&logo=mathworks&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
+
+<hr>
 💻 Projects
 🔊 Voice-Activated Email System
 Tech: Python, SpeechRecognition, pyttsx3, Gmail API, IMAP, Tkinter
@@ -20,7 +23,7 @@ Goal: Assist visually impaired users to compose & send emails using voice comman
 
 📈 HR Analytics Data Project
 Tech: Python, SQL, Power BI, Tableau
-
+<hr>
 Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
 
 🎓 Education<br>
