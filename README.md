@@ -12,10 +12,9 @@
 
 - 🎓 **B.E Computer Science and Engineering (2022-2026)**  
   Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College | CGPA: **8.50**
-- 💻 Passionate about **Java**, **Data Structures**, **SQL**, **HTML/CSS**, **Python**
+- 💻 Passionate about **Java**, **Data Structures**, **SQL**, **HTML/CSS**
 - 🔍 Strong problem-solving skills and enthusiastic about software development
 - 🧑‍💻 Completed Internship at **Top Tech Developers** as a **Java Intern**
-- 🌱 Currently learning: **Cloud Computing**, **Python for Analytics**, **Power BI**
 - 🤝 Open to collaborations, internships, and new learning opportunities
 
 ---
@@ -23,7 +22,7 @@
 ## 📫 Contact Me
 
 - **Email:** akalyaselvaraj14@gmail.com  
-- **LinkedIn:** [Akalya S](http://www.linkedin.com/in/akalya-selvaraj-04a2a7275)  
+- **LinkedIn:** (http://www.linkedin.com/in/akalya-selvaraj-04a2a7275)  
 - **GitHub:** [Akalyas596](https://github.com/Akalyas596)
 
 ---
