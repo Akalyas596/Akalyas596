@@ -1,64 +1,35 @@
-<h1 align="center">Hi 👋, I'm Akalya S</h1>
+👋 Hello! I'm Akalya S
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F76C6C&center=true&width=500&lines=Aspiring+Software+Developer;Java+%7C+SQL+%7C+Frontend+%7C+Python;Learning+and+Building+Every+Day" alt="Typing SVG" /> </p>
+🚀 About Me
+🌟 Computer Science Engineering Student at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
+🎯 Focused on: Java, SQL, Python, Data Structures, Web Development
+💻 Java Intern @ Top Tech Developers
+💡 Passionate about building real-world solutions & creative problem-solving
+🌱 Currently learning Cloud Computing, Data Analytics, and Frontend Projects
+🤝 Looking for collaborations, internships, and innovative tech projects
 
-<p align="center">
-Aspiring <strong>Computer Science Engineering Student</strong> | Passionate about <strong>Java, Data Structures & Algorithms</strong><br>
-Enthusiastic about building real-world solutions using my technical knowledge.
-</p>
+📫 Connect with Me
+<p align="left"> <a href="mailto:akalyaselvaraj14@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a> <a href="https://www.linkedin.com/in/akalya-selvaraj-04a2a7275"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/Akalyas596"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a> </p>
+🛠️ Skills & Technologies
+<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0DB7ED?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-ffb400?style=for-the-badge&logo=mathworks&logoColor=black" /> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </p>
+💻 Projects
+🔊 Voice-Activated Email System
+Tech: Python, SpeechRecognition, pyttsx3, Gmail API, IMAP, Tkinter
 
----
+Goal: Assist visually impaired users to compose & send emails using voice commands
 
-## 📫 Contact Me
-- **Email:** akalyaselvaraj14@gmail.com  
-- **LinkedIn:** [akalya-selvaraj](https://www.linkedin.com/in/akalya-selvaraj)  
-- **GitHub:** [Akalyas596](https://github.com/Akalyas596)  
-- **Location:** Perambalur, Tamil Nadu, India  
-- **Phone:** 7092813312
+📈 HR Analytics Data Project
+Tech: Python, SQL, Power BI, Tableau
 
----
+Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
 
-## 🛠️ Technical Skills
+🎓 Education
+🎓 B.E. Computer Science and Engineering
+Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2022–2026)
+CGPA: 8.50
 
-- **Languages:** Java, Python, SQL  
-- **Web Development:** HTML, CSS  
-- **Tools:** Power BI, Tableau, Excel, MATLAB  
-- **Other:** Speech Recognition APIs, Gmail API, tkinter
+🏫 HSC (2022): 88.6% – Government Girls Higher Secondary School, Kunnam
+🏫 SSLC (2020): 92.16% – Government Girls Higher Secondary School, Kunnam
 
----
-
-## 🎓 Education
-
-- **B.E. Computer Science and Engineering**  
-  Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2022–2026)  
-  **CGPA:** 8.50
-
-- **HSC** – Government Girls Higher Secondary School, Kunnam (2022)  
-  **Percentage:** 88.6%
-
-- **SSLC** – Government Girls Higher Secondary School, Kunnam (2020)  
-  **Percentage:** 92.16%
-
----
-
-## 💼 Internship
-
-**Top Tech Developers**  
-**Role:** Java Intern  
-- Practical exposure to **Core Java Development**
-
----
-
-## 💻 Projects
-
-### 1️⃣ Exploring The Evolution of Human Resource Analytics
-- Studied the impact of **HR analytics** on organizational performance, productivity, retention, and satisfaction.
-- **Tools Used:** Python, SQL, Power BI, Tableau
-
-### 2️⃣ Voice-Activated Email System for Visually Impaired Users
-- Developed a **voice-controlled email system** for composing, sending, and managing emails hands-free.
-- **Technologies:** Python, SpeechRecognition, pyttsx3, smtplib, IMAP, tkinter
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=800&color=004080&vCenter=true&width=600&lines=Thank+You+for+visiting+my+GitHub!" alt="Typing SVG" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akalyas596&show_icons=true&theme=omni&hide_border=true&border_radius=20" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akalyas596&theme=omni&hide_border=true&border_radius=20" width="45%" /> </p>
