@@ -4,8 +4,8 @@
 
 🌟 Computer Science Engineering Student at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College<br>
 🎯 Focused on: Java, SQL, Python, Data Structures, Web Development<br>
-💻 Java Intern @ Top Tech Developers
-💡 Passionate about building real-world solutions & creative problem-solving
+💻 Java Intern @ Top Tech Developers<br>
+💡 Passionate about building real-world solutions & creative problem-solving<br>
 🤝 Looking for collaborations, internships, and innovative tech projects
 
 📫 Connect with Me
@@ -23,12 +23,12 @@ Tech: Python, SQL, Power BI, Tableau
 
 Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
 
-🎓 Education
-🎓 B.E. Computer Science and Engineering
-Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2022–2026)
-CGPA: 8.50
+🎓 Education<br>
+🎓 B.E. Computer Science and Engineering<br>
+Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2022–2026)<br>
+CGPA: 8.42
 
-🏫 HSC (2022): 88.6% – Government Girls Higher Secondary School, Kunnam
+🏫 HSC (2022): 88.6% – Government Girls Higher Secondary School, Kunnam<br>
 🏫 SSLC (2020): 92.16% – Government Girls Higher Secondary School, Kunnam
 
 📊 GitHub Stats
