@@ -1,9 +1,9 @@
 👋 Hello! I'm Akalya S
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F76C6C&center=true&width=500&lines=Aspiring+Software+Developer;Java+%7C+SQL+%7C+Frontend+%7C+Python;Learning+and+Building+Every+Day" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F76C6C&center=true&width=500&lines=Aspiring+Software+Developer;Java+%7C+SQL+%7C+Frontend+%7C;Learning+and+Building+Every+Day" alt="Typing SVG" /> </p>
 🚀 About Me<br>
 
 🌟 Computer Science Engineering Student at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College<br>
-🎯 Focused on: Java, SQL, Python, Data Structures, Web Development<br>
+🎯 Focused on: Java, SQL, Data Structures, Web Development<br>
 💻 Java Intern @ Top Tech Developers<br>
 💡 Passionate about building real-world solutions & creative problem-solving<br>
 🤝 Looking for collaborations, internships, and innovative tech projects
