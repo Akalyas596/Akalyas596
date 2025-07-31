@@ -25,6 +25,7 @@ Goal: Assist visually impaired users to compose & send emails using voice comman
 📈 HR Analytics Data Project  
 
 Tech: Python, SQL, Power BI, Tableau
+
 Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
 <hr>
 🎓 Education<br>
