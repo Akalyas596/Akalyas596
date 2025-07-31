@@ -22,10 +22,8 @@ Tech: Python, SpeechRecognition, pyttsx3, Gmail API, IMAP, Tkinter
 <br>Goal: Assist visually impaired users to compose & send emails using voice commands
 
 📈 HR Analytics Data Project  
-
 Tech: Python, SQL, Power BI, Tableau
-
-Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
+<br>Goal: Analyze HR data to improve employee retention and productivity through data-driven strategies
 <hr>
 🎓 Education<br>
 🎓 B.E. Computer Science and Engineering<br>
