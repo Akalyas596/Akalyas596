@@ -19,8 +19,7 @@
 🔊 Voice-Activated Email System
 
 Tech: Python, SpeechRecognition, pyttsx3, Gmail API, IMAP, Tkinter
-
-Goal: Assist visually impaired users to compose & send emails using voice commands
+<br>Goal: Assist visually impaired users to compose & send emails using voice commands
 
 📈 HR Analytics Data Project  
 
